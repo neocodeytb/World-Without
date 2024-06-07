@@ -1,1 +1,2 @@
-Vous pouvez utiliser les éléments de ce jeu autant que vous le souhaitez. Il y a un fichier .zip qui contient absolument tous les fichiers du projet. Vous pouvez l'extraire et le placer dans votre Unity Hub pour directement accéder à l'édition du jeu.
+Vous pouvez utiliser les éléments de ce jeu autant que vous le souhaitez. Si cette utilisation a pour but de produire un revenu pour vous ou quelqu'un d'autre, merci de me prévenir par mail :
+neocodeytb@gmail.com
